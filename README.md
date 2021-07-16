@@ -29,6 +29,8 @@ Hibernate
 ![Alt text](sporty-shoes-products2.png?raw=true "Title")
 ## Card
 ![Alt text](sporty-shoes-cart.png?raw=true "Title")
+## Register
+![Alt text](sporty-shoes-register.png?raw=true "Title")
 
 ## Note 
 Tested on macOS jdk 16
