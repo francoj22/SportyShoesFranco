@@ -16,9 +16,9 @@ Some Details
 
 Concepts
 ------------------
-Spring Boot
-JQuery for Frontend and JSP
-Hibernate
+1. Spring Boot
+2. JQuery for Frontend and JSP
+3. Hibernate
 
 
 ## Login page
